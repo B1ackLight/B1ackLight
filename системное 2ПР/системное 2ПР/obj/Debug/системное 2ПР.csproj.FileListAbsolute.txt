@@ -1,0 +1,10 @@
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\obj\Debug\системное 2ПР.csproj.AssemblyReference.cache
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\obj\Debug\системное_2ПР.Form1.resources
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\obj\Debug\системное_2ПР.Properties.Resources.resources
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\obj\Debug\системное 2ПР.csproj.GenerateResource.cache
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\obj\Debug\системное 2ПР.csproj.CoreCompileInputs.cache
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\bin\Debug\системное 2ПР.exe.config
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\bin\Debug\системное 2ПР.exe
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\bin\Debug\системное 2ПР.pdb
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\obj\Debug\системное 2ПР.exe
+C:\Users\sonik\Desktop\Ready\B1ackLight\системное 2ПР\системное 2ПР\obj\Debug\системное 2ПР.pdb
